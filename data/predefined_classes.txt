@@ -1,5 +1,5 @@
 bus
-microbus
 minivan
 auto
 truck
+minibus
